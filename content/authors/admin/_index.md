@@ -95,9 +95,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack previous:graduation-cap
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=SOvULQcAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/GiuliaMP
@@ -110,12 +107,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/giulia-marchiori-pietrosanti/
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack. previous: graduation-cap from fas
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=SOvULQcAAAAJ&hl=it&oi=ao
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
