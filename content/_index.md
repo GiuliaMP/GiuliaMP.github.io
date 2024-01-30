@@ -65,10 +65,10 @@ sections:
         - title: Research Assistant
           company: Oslo Metropolitan University
           company_url: ''
-          company_logo:
+          company_logo: org-x.svg
           location: Oslo, Norway
-          date_start: '2022-08'
-          date_end: '2022-09'
+          date_start: '2022-08-01'
+          date_end: '2022-09-30'
           description: |2-
               * Studied and implemented Cellular Automata to efficiently model an unconventional fluid‑based computational system
               * Employed Evolutionary Computation for the optimization of the Cellular Automata rules
@@ -76,10 +76,10 @@ sections:
         - title: Teaching Assistant
           company: University of Trieste
           company_url: ''
-          company_logo:
+          company_logo: org-x.svg
           location: Trieste, Italy
-          date_start: '2021-10'
-          date_end: '2021-12'
+          date_start: '2021-10-01'
+          date_end: '2021-12-31'
           description: Held weekly recitations for 20+ 2nd‑year BSc students in Computability, Complexity, and Logic (propositional logic, deductive systems, and first‑order‑logic).
     design:
       columns: '2'
