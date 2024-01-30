@@ -65,16 +65,15 @@ sections:
         - title: Research Assistant
           company: Oslo Metropolitan University
           company_url: ''
-          company_logo: org-gc.svg
-          location: Oslo, Norway
+          location: Oslo
           date_start: '2022-08-01'
           date_end: '2022-09-30'
           description: hello
+        
         - title: Teaching Assistant
           company: University of Trieste
           company_url: ''
-          company_logo: org-x.svg
-          location: Trieste, Italy
+          location: Trieste
           date_start: '2021-10-01'
           date_end: '2021-12-31'
           description: Held weekly recitations for 20+ 2nd‑year BSc students in Computability, Complexity, and Logic (propositional logic, deductive systems, and first‑order‑logic).
