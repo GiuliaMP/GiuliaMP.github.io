@@ -65,11 +65,11 @@ sections:
         - title: Research Assistant
           company: Oslo Metropolitan University
           company_url: ''
-          company_logo: org-x.svg
+          company_logo: org-gc.svg
           location: Oslo, Norway
           date_start: '2022-08-01'
           date_end: '2022-09-30'
-          description: |2-
+          description: |1-
               * Studied and implemented Cellular Automata to efficiently model an unconventional fluid‑based computational system
               * Employed Evolutionary Computation for the optimization of the Cellular Automata rules
 
