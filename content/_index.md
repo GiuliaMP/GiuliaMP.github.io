@@ -68,7 +68,8 @@ sections:
           location: Oslo, Norway
           date_start: '2022-08-01'
           date_end: '2022-09-30'
-          description: * Studied and implemented Cellular Automata to efficiently model an unconventional fluid‑based computational system.
+          description: |2-
+          * Studied and implemented Cellular Automata to efficiently model an unconventional fluid‑based computational system.
           * Employed Evolutionary Computation for the optimization of the Cellular Automata rules
 
         
