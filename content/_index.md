@@ -62,27 +62,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Oslo Metropolitan University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo:
+          location: Oslo, Norway
+          date_start: '2022-08'
+          date_end: '2022-09'
           description: |2-
-              Responsibilities include:
+              * Studied and implemented Cellular Automata to efficiently model an unconventional fluid‑based computational system
+              * Employed Evolutionary Computation for the optimization of the Cellular Automata rules
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Teaching Assistant
+          company: University of Trieste
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo:
+          location: Trieste, Italy
+          date_start: '2021-10'
+          date_end: '2021-12'
+          description: Held weekly recitations for 20+ 2nd‑year BSc students in Computability, Complexity, and Logic (propositional logic, deductive systems, and first‑order‑logic).
     design:
       columns: '2'
   #- block: accomplishments
