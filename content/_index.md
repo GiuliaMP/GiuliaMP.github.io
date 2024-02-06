@@ -217,10 +217,12 @@ sections:
   - block: markdown
     id: scholarships
     content:
-      title: Scholarships
+      title: Honors
       text: |-
-          * Scholarships 1
-          * Scholarships 2
+          * The Cornell, Maryland, max Planck Pre-doctoral Research School 
+          * Sony AI Scholarship - Summer School on AI \& Games
+          * ABK Women in Games Scholarship
+          * Collegio Universitario Luciano Fonda
     design:
       columns: '2'
   - block: contact
