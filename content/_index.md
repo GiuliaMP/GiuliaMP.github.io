@@ -214,6 +214,15 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
+  - block: Scholarships
+    id: scholarships
+    content:
+      title: Scholarships
+      text: |-
+          * Scholarships 1
+          * Scholarships 2
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
