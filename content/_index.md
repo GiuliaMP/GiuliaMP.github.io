@@ -214,7 +214,7 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
-  - block: Scholarships
+  - block: markdown
     id: scholarships
     content:
       title: Scholarships
