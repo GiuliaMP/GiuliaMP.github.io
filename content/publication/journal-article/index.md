@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Human Control of Simulated Modular Soft Robots may Predict the Performance of Optimized AI-based Controllers"
 authors:
 - admin 
 - Giorgia Nadizar 
@@ -12,7 +12,7 @@ date: "2023-12"
 doi: "10.1109/ACCESS.2023.3342912"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
