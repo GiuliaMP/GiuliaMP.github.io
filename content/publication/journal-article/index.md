@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
 abstract: Robots with a modular body permit a wide range of physical configurations, which can be obtained by arranging the composing modules differently. While this freedom makes modular robots capable of performing different tasks, finding the optimal physical configuration for a given task is not trivial. In fact, practitioners attempt to jointly optimize the body and the controller of the robot for a given task, but the result is not always satisfactory. More broadly, it is not clear what factors make a physical configuration more or less successful. In this paper, we aim to fill this gap and verify if humans can be predictive with respect to the performance of an optimized controller for a given robot body. We consider the case of Voxel-based Soft Robots (VSRs), whose rich dynamic induced by the softness of the modules makes the body particularly relevant for the robot ability to perform a task. We instantiate a number of (simulated) VSR bodies, differing in shape and actuation mechanism, and let a panel of humans control them, by means of online interaction with the simulator, while performing the task of locomotion. We use the same bodies with controllers obtained with evolutionary optimization, for the same task. We compare the ranking of human- and optimized AI-based VSRs, finding them very similar. We believe that our results strengthen the hypothesis that intrinsic factors in the body of modular robots determine their success.
