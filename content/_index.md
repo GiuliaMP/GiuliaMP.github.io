@@ -199,7 +199,7 @@ sections:
       #  {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publication/journal-article
         exclude_featured: true
     design:
       columns: '2'
