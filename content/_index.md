@@ -217,7 +217,7 @@ sections:
   - block: markdown
     id: scholarships
     content:
-      title: Honors
+      title: Scholarships
       text: |-
           * The Cornell, Maryland, max Planck Pre-doctoral Research School 
           * Sony AI Scholarship - Summer School on AI \& Games
