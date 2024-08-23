@@ -219,10 +219,10 @@ sections:
     content:
       title: Scholarships
       text: |-
-          * [The Cornell, Maryland, max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/)
-          * [Sony AI Scholarship - Summer School on AI \& Games](https://school.gameaibook.org/2022-school/#:~:text=For%20the%20fourth%20International%20Summer,techniques%20in%20and%20for%20games.)
-          * [ABK Women in Games Scholarship](https://careers.activisionblizzard.com/abkinclusioningames)
-          * [Collegio Universitario Luciano Fonda](https://www.collegiofonda.it/)
+          * [The Cornell, Maryland, max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/), August 2023
+          * [Sony AI Scholarship - Summer School on AI \& Games](https://school.gameaibook.org/2022-school/#:~:text=For%20the%20fourth%20International%20Summer,techniques%20in%20and%20for%20games.), August 2022
+          * [ABK Women in Games Scholarship](https://careers.activisionblizzard.com/abkinclusioningames), March 2022
+          * [Collegio Universitario Luciano Fonda](https://www.collegiofonda.it/), October 2020 - September 2022
     design:
       columns: '2'
   - block: contact
