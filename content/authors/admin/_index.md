@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD student in Artificial Intelligence
       institution: Sant'Anna school of advanced studies
       year: Current
     - course: MSc in Artificial Intelligence
