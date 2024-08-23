@@ -219,7 +219,7 @@ sections:
     content:
       title: Scholarships
       text: |-
-          * The Cornell, Maryland, max Planck Pre-doctoral Research School 
+          * [The Cornell, Maryland, max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/)
           * Sony AI Scholarship - Summer School on AI \& Games
           * ABK Women in Games Scholarship
           * Collegio Universitario Luciano Fonda
