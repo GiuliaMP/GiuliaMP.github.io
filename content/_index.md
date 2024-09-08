@@ -100,7 +100,7 @@ sections:
           * [Collegio Universitario Luciano Fonda](https://www.collegiofonda.it/), October 2020 - September 2022
     design:
       columns: '2'
-  - block: markdown
+  - block: contact
     id: contact
     content:
       title: Contact
