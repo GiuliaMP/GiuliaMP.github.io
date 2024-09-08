@@ -103,7 +103,7 @@ social:
     link: https://twitter.com/giulia__mp
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/giulia-marchiori-pietrosanti/
