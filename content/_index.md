@@ -100,9 +100,11 @@ sections:
           * [Collegio Universitario Luciano Fonda](https://www.collegiofonda.it/), October 2020 - September 2022
     design:
       columns: '2'
-  - block: contact
+  - block: markdown
     id: contact
     content:
       title: Contact
       email: giulia.marchioripietrosanti@gmail.com
+    design:
+      columns: '1'
 ---
