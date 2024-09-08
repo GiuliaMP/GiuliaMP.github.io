@@ -74,6 +74,7 @@ sections:
           description: Held weekly recitations for 20+ 2nd‑year BSc students in Computability, Complexity, and Logic (propositional logic, deductive systems, and first‑order‑logic).
     design:
       columns: '2'
+  
   - block: collection
     id: publications
     content:
