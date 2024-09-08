@@ -17,5 +17,6 @@ main:
     url: '#scholarships'
     weight: 40
   - name: Contact
-    url: '#contact'
+    #url: '#contact'
+    pageRef: '/contact'
     weight: 50
