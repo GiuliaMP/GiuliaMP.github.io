@@ -105,6 +105,4 @@ sections:
     content:
       title: Contact
       email: giulia.marchioripietrosanti@gmail.com
-    design:
-      columns: '1'
 ---
