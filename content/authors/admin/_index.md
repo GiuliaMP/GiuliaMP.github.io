@@ -121,9 +121,9 @@ social:
 highlight_name: true
 ---
 
-Hello there! I am a Ph.D. student at the Real-Time Systems (ReTiS) Laboratory, Scuola Superiore Sant’Anna in Pisa. I previously completed my Master’s degree in Data Science and scientific computing at the University of Trieste and held a Bachelor’s degree in Computer Science from the University of Rome, La Sapienza. My research focuses on Reinforcement Learning (RL) and enhancing RL agents’ decision-making abilities in novel situations. I also believe that drawing inspiration from diverse domains is crucial for getting fresh perspectives.
+Hello there! I am a Ph.D. student at the Real-Time Systems (ReTiS) Laboratory, Scuola Superiore Sant’Anna in Pisa. I previously completed my Master’s degree in Data Science and scientific computing at the University of Trieste and hold a Bachelor’s degree in Computer Science from the University of Rome, La Sapienza. My research focuses on Reinforcement Learning (RL) and enhancing RL agents’ decision-making abilities in novel situations.
 
-In my spare time, I love exploring how AI algorithms can be used to enhance video game development. When I am not at the computer, I enjoy exploring the outdoors through hiking and horse riding. Additionally, I love traveling and learning more about different languages, and cultures.
+In my spare time, I love exploring Artificial Intelligence applications in video game development. When I am not at the computer, I enjoy exploring the outdoors through hiking and horse riding. Additionally, I love traveling and learning more about different languages, and cultures.
 
 Do not hesitate to reach out if you have any questions or would like to connect.
 
