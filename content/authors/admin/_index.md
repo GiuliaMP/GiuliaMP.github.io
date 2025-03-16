@@ -31,6 +31,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Computer Vision
   - Reinforcement Learning
   - Video Games
 
@@ -121,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-Hello there! I am a Ph.D. student at the Real-Time Systems (ReTiS) Laboratory, Scuola Superiore Sant’Anna in Pisa. I previously completed my Master’s degree in Data Science and scientific computing at the University of Trieste and hold a Bachelor’s degree in Computer Science from the University of Rome, La Sapienza. My research focuses on Reinforcement Learning (RL) and enhancing RL agents’ decision-making abilities in novel situations.
+Hello there! I am a Ph.D. student at the Real-Time Systems (ReTiS) Laboratory, Scuola Superiore Sant’Anna in Pisa. I previously completed my Master’s degree in Data Science and scientific computing at the University of Trieste and hold a Bachelor’s degree in Computer Science from the University of Rome, La Sapienza. My research focuses on studying and improving the robustness and adaptability of Vision Transformers, particularly in driving scenarios and across diverse tasks.
 
 In my spare time, I love exploring Artificial Intelligence applications in video game development. When I am not at the computer, I enjoy exploring the outdoors through hiking and horse riding. Additionally, I love traveling and learning more about different languages, and cultures.
 
